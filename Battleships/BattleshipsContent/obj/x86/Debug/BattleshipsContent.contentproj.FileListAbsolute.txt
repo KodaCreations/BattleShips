@@ -1,0 +1,3 @@
+C:\Users\Kaitos\Desktop\Removable Disk\Visual Studio\Examinationsprojekt\Battleships\Battleships\BattleshipsContent\obj\x86\Debug\BattleshipsContent.contentprojResolveAssemblyReference.cache
+H:\Visual Studio\Examinationsprojekt\Battleships\Battleships\BattleshipsContent\obj\x86\Debug\BattleshipsContent.contentprojResolveAssemblyReference.cache
+F:\Visual Studio\Examinationsprojekt\Battleships\Battleships\BattleshipsContent\obj\x86\Debug\BattleshipsContent.contentprojResolveAssemblyReference.cache
