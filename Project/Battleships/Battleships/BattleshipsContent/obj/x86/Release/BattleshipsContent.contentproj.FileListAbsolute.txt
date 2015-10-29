@@ -1,3 +1,5 @@
 H:\Visual Studio\Examinationsprojekt\Battleships\Battleships\BattleshipsContent\obj\x86\Release\BattleshipsContent.contentprojResolveAssemblyReference.cache
 C:\Users\Andreas\Desktop\USb\Visual Studio\Examinationsprojekt\Battleships\Battleships\BattleshipsContent\obj\x86\Release\BattleshipsContent.contentprojResolveAssemblyReference.cache
 F:\Schoolwork\Visual Studio\Examinationsprojekt\Battleships\Battleships\BattleshipsContent\obj\x86\Release\BattleshipsContent.contentprojResolveAssemblyReference.cache
+G:\Objektorienterad Spelprogrammering\Period 2\Examination\Battleships\Battleships\BattleshipsContent\obj\x86\Release\BattleshipsContent.contentprojResolveAssemblyReference.cache
+D:\MAH\Objektorienterad Spelprogrammering\Period 2\Examination\Battleships\Battleships\BattleshipsContent\obj\x86\Release\BattleshipsContent.contentprojResolveAssemblyReference.cache

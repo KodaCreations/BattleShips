@@ -25,3 +25,21 @@ F:\Schoolwork\Visual Studio\Examinationsprojekt\Battleships\Battleships\Battlesh
 F:\Schoolwork\Visual Studio\Examinationsprojekt\Battleships\Battleships\Battleships\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
 F:\Schoolwork\Visual Studio\Examinationsprojekt\Battleships\Battleships\Battleships\obj\x86\Release\Battleships.exe
 F:\Schoolwork\Visual Studio\Examinationsprojekt\Battleships\Battleships\Battleships\obj\x86\Release\Battleships.pdb
+G:\Objektorienterad Spelprogrammering\Period 2\Examination\Battleships\Battleships\Battleships\bin\x86\Release\Content\battleship.xnb
+G:\Objektorienterad Spelprogrammering\Period 2\Examination\Battleships\Battleships\Battleships\bin\x86\Release\Content\battleshiplogo.xnb
+G:\Objektorienterad Spelprogrammering\Period 2\Examination\Battleships\Battleships\Battleships\bin\x86\Release\Content\SpriteFont1.xnb
+G:\Objektorienterad Spelprogrammering\Period 2\Examination\Battleships\Battleships\Battleships\bin\x86\Release\Battleships.exe
+G:\Objektorienterad Spelprogrammering\Period 2\Examination\Battleships\Battleships\Battleships\bin\x86\Release\Battleships.pdb
+G:\Objektorienterad Spelprogrammering\Period 2\Examination\Battleships\Battleships\Battleships\obj\x86\Release\Battleships.csprojResolveAssemblyReference.cache
+G:\Objektorienterad Spelprogrammering\Period 2\Examination\Battleships\Battleships\Battleships\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Objektorienterad Spelprogrammering\Period 2\Examination\Battleships\Battleships\Battleships\obj\x86\Release\Battleships.exe
+G:\Objektorienterad Spelprogrammering\Period 2\Examination\Battleships\Battleships\Battleships\obj\x86\Release\Battleships.pdb
+D:\MAH\Objektorienterad Spelprogrammering\Period 2\Examination\Battleships\Battleships\Battleships\bin\x86\Release\Content\battleship.xnb
+D:\MAH\Objektorienterad Spelprogrammering\Period 2\Examination\Battleships\Battleships\Battleships\bin\x86\Release\Content\battleshiplogo.xnb
+D:\MAH\Objektorienterad Spelprogrammering\Period 2\Examination\Battleships\Battleships\Battleships\bin\x86\Release\Content\SpriteFont1.xnb
+D:\MAH\Objektorienterad Spelprogrammering\Period 2\Examination\Battleships\Battleships\Battleships\bin\x86\Release\Battleships.exe
+D:\MAH\Objektorienterad Spelprogrammering\Period 2\Examination\Battleships\Battleships\Battleships\bin\x86\Release\Battleships.pdb
+D:\MAH\Objektorienterad Spelprogrammering\Period 2\Examination\Battleships\Battleships\Battleships\obj\x86\Release\Battleships.csprojResolveAssemblyReference.cache
+D:\MAH\Objektorienterad Spelprogrammering\Period 2\Examination\Battleships\Battleships\Battleships\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\MAH\Objektorienterad Spelprogrammering\Period 2\Examination\Battleships\Battleships\Battleships\obj\x86\Release\Battleships.exe
+D:\MAH\Objektorienterad Spelprogrammering\Period 2\Examination\Battleships\Battleships\Battleships\obj\x86\Release\Battleships.pdb
