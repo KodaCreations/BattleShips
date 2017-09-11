@@ -1,5 +1,0 @@
-for (int i=0; i<5; i++)
-{
-   int ship_size=250- ( (i-Math.floor(i*0.4) ) *50);
-   ships[i]=new Ship(spritesheet, tiles[0,i].pos, new Rectangle(0,i*50,ship_size,50) );
-}
